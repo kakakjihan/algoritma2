@@ -1,0 +1,2 @@
+<?php
+$user = new User();
