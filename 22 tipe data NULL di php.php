@@ -1,2 +1,2 @@
-<?php
+
 $nama = NULL;

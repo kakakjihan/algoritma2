@@ -1,3 +1,2 @@
-<?php
+
 $user = new User();
-?>
